@@ -19,8 +19,23 @@ If this is your first time using Arduino, we highly recommend you to refer to Ge
 
     Step 4. Select your board and port.
 
-      On top of the Arduino IDE, you can search for xiao in the development board on the left, select XIAO_RA4M1, and select the port directly.
+       On top of the Arduino IDE, you can search for xiao in the development board on the left, select XIAO_RA4M1, and select the port directly.
       
     Step 5. More details in the following link:
     
-      https://wiki.seeedstudio.com/getting_started_xiao_ra4m1/
+       https://wiki.seeedstudio.com/getting_started_xiao_ra4m1/
+
+    Step 6. Clone the repository from: 
+
+	https://github.com/Seridyan/keyboard
+
+    Step 7. In Arduino IDE open the code in:
+
+	\git\keyboard\keyboard_code
+
+    Step 8. Edit the code at your own will
+
+    Step 9. Verify and Upload the code
+
+
+       
